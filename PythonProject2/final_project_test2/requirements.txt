@@ -1,0 +1,18 @@
+# Database
+pyodbc>=4.0.39
+# UI
+PyQt6>=6.4.0
+PyQt6-WebEngine>=6.4.0
+
+# File handling
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Testing
+pytest>=7.4.0
+pytest-qt>=4.2.0
+
+# Development tools
+black>=23.3.0
+pylint>=2.17.0
+

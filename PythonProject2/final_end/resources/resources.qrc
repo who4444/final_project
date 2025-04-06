@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons"/>
+  <qresource prefix="books"/>
+  <qresource prefix="covers"/>
+  <qresource prefix="icons">
+    <file>icons/alert_icon.png</file>
+    <file>icons/bell_icon.png</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>icons/eye_icon.png</file>
+    <file>images/Background.png</file>
+    <file>images/Dat.png</file>
+    <file>images/Khiem.png</file>
+    <file>images/Phuc.png</file>
+    <file>images/Side-panel.png</file>
+  </qresource>
+</RCC>

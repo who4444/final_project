@@ -1,0 +1,4 @@
+Add category management in manage page
+Add visualize stats functions in book management and categories management
+
+do nothing in user info page
